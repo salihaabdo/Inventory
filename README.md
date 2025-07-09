@@ -1,4 +1,3 @@
-want to buy this project Contact Info-  +91-9964716807
 # Online_Inventory_shop
 Online shop with admin and supplier 
 User Side Home Page 
@@ -35,11 +34,4 @@ Discussion Page
 ![Image of user](https://github.com/nikhilkeshava/Online_Inventory_shop/blob/master/screenshots/Screenshot%20(493).png)
 ![Image of user](https://github.com/nikhilkeshava/Online_Inventory_shop/blob/master/screenshots/Screenshot%20(494).png)
 ![Image of user](https://github.com/nikhilkeshava/Online_Inventory_shop/blob/master/screenshots/Screenshot%20(495).png)
-
-
-
-
-
-For More Info 
-Contact +91-9964716807
 
